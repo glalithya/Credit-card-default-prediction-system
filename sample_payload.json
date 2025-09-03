@@ -1,0 +1,9 @@
+{
+    "age": 30,
+    "income": 55000,
+    "loan_amount": 15000,
+    "loan_term": 36,
+    "credit_score": 700,
+    "employment_status": "employed",
+    "marital_status": "single"
+}

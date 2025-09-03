@@ -1,0 +1,22 @@
+[
+    "age",
+    "income",
+    "loan_amount",
+    "interest_rate",
+    "term_months",
+    "dti",
+    "delinquencies",
+    "credit_history_years",
+    "home_ownership_OTHER",
+    "home_ownership_OWN",
+    "home_ownership_RENT",
+    "purpose_debt_consolidation",
+    "purpose_home_improvement",
+    "purpose_major_purchase",
+    "purpose_other",
+    "purpose_small_business",
+    "employment_length_1-3",
+    "employment_length_10+",
+    "employment_length_3-5",
+    "employment_length_5-10"
+]
